@@ -89,8 +89,8 @@ require (
 	github.com/mitchellh/hashstructure v1.0.0
 	github.com/mitchellh/pointerstructure v0.0.0-20190430161007-f252a8fd71c8 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20190414153302-2ae31c8b6b30 // indirect
-	github.com/nats-io/nats.go v1.7.3-0.20190520162205-769c8a138276
-	github.com/nats-io/stan.go v0.4.5
+	github.com/nats-io/nats.go v1.8.1
+	github.com/nats-io/stan.go v0.5.0
 	github.com/nsqio/go-nsq v1.0.7
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/opentracing/opentracing-go v1.1.0
